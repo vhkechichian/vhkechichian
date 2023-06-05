@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Geographic%20Information%20System%20Technology;Building%20Map%20Services,%20Interactive%20Web%20Maps;Analysis%20GeoSpatial%20Data%20With%20ArcGIS,%20QGIS%20GDAL%20;Remote%20Sensing%20Data%20Analysis&center=true&width=800&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Geographic%20Information%20System%20Technology;Building%20Map%20Services,%20Interactive%20Web%20Maps;Analysis%20GeoSpatial%20Data%20With%20ArcGIS,%20QGIS%20and%20GDAL%20;Remote%20Sensing%20Data%20Analysis&center=true&width=800&height=60">
   </a>
 </p>
 
